@@ -17,7 +17,7 @@ This Excel dashboard provides visual insights into airline passenger satisfactio
 - `Airline_Passenger_Satisfaction_Dashboard.xlsx`
 
 ## 📸 Screenshot (Optional):
-> Add a screenshot of the dashboard here if needed
+https://github.com/SandyAshraf333/Airline-Passengers-Satisfaction-Dashboard/tree/main
 
 
 
